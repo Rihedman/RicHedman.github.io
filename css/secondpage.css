@@ -24,10 +24,9 @@ body{
 
 
 .para {
-    border-radius: 20px;
-    height: px;
+    border-radius: 22px;
+    width: 250px;
     border-width: 1px;
-    width: 400px;
     padding: 8px;
     background-color: rgb(219, 148, 148);
 
