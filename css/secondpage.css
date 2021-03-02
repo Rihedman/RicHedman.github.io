@@ -9,6 +9,12 @@ body{
     height: 50px;
     width: 250px;
 }
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
 .koirat {
 
    max-width: 10%;
