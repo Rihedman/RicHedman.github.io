@@ -38,11 +38,11 @@ body{
 }
 
 figure {
-    border: thin #c0c0c0 solid;
+    border: thin #833131 solid;
     display: flex;
     flex-flow: column;
     padding: 5px;
-    max-width: 220px;
+    max-width: 150px;
     margin: auto;
 }
 
