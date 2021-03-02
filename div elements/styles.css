@@ -1,1 +1,35 @@
 
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    }  
+
+header  {
+    background-color: #138AF2;
+  }
+
+nav {
+    background-color: #AB05F2;
+}
+
+section {
+    background-color: #5A13F2;
+
+}
+
+aside   {
+    background-color: #C004D9;
+
+}
+
+article {
+    background-color: #138AF2;
+}
+
+footer  {
+    background-color: #AB05F2;
+
+
+
+}
