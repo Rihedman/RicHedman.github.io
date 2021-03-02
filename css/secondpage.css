@@ -14,8 +14,7 @@ body{
     float: left;
     width: 33.33%;
     padding: 5px;
-    max-width: 100px;
-    max-height: 150px;
+
 }
 .koirat {
 
@@ -30,10 +29,14 @@ body{
 
 .para {
     border-radius: 20px;
-    height: 10px;
+    height: px;
     border-width: 1px;
     width: 400px;
     padding: 8px;
     background-color: rgb(219, 148, 148);
 
+}
+.img{
+    max-width: 100px;
+    max-height: 150px;
 }
