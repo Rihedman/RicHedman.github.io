@@ -24,32 +24,29 @@ header  {
 
 nav {
         background-color: #440808;
-        width: 30%;
-        height: 300px;
         background: rgb(134, 63, 63);
-        padding: 20px;
+        padding: 10px;
 
 }
 
 nav ul {
     list-style-type: none;
+    height: 300px;
     padding: 0;
- background-color: #c5bfc0;
+ background-color: #dfbcc22d;
 }
 
 
 ul {
-    float: left;
+
+    text-align: center;
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 200px;
-    background-color: #7e5c69;
 }
 
 li a {
     width: 100px;
-    float: left;
     display: block;
     color: #000;
     text-decoration: none;
@@ -57,7 +54,7 @@ li a {
 
 li a:hover {
     background-color: #555;
-    color: white;
+    color: rgb(247, 16, 16);
 }
 
 article {
@@ -79,7 +76,11 @@ article {
             color: white;
         }
     
-    section {
 
-        height: ;
+    div{
+        background-color: lavender;
+    }
+
+    h2{
+        margin: 0px;
     }
