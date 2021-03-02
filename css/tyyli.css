@@ -1,3 +1,15 @@
+body {
+    background-color: rgba(61, 223, 74, 0.562);
+}
+
+.border  {
+    border: double;
+    border-width: 2px;
+    color: rgb(80, 2, 136);
+    height: 50px;
+    width: 250px;
+}
+
 
 .sohva-koira{
     width: 400px;
