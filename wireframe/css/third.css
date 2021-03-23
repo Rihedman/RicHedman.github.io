@@ -11,3 +11,18 @@ header{
     width: 100px;
     height: 100px;
 }
+
+.topimage{
+    float: left;
+    width: 100%;
+    height: 100px;
+}
+
+.navi{
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px; 
+}
